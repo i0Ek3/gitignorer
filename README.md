@@ -1,0 +1,2 @@
+# gitignorer
+Generate .gitignore automatically.
